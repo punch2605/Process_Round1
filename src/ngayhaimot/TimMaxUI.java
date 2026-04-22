@@ -1,6 +1,6 @@
-package com.mycompany.baikiemtranhom;
-import java.util.Scanner;
+package ngayhaimot;
 
+import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 public class TimMaxUI {

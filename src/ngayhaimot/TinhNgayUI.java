@@ -1,4 +1,5 @@
-package com.mycompany.baikiemtranhom;
+package ngayhaimot;
+
 import javax.swing.JOptionPane;
 
 public class TinhNgayUI {
